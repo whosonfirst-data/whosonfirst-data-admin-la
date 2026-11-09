@@ -45,7 +45,7 @@
         "wk:page":"Ban_Dak-Lay"
     },
     "wof:country":"LA",
-    "wof:geomhash":"6549918e4609a453fc60a45bb2bc935b",
+    "wof:geomhash":"ae1e17fbc2ac8b530b83dc8cda3d652c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     107.11681000000002,
     14.59005
 ],
-  "geometry": {"coordinates":[107.11681000000002,14.59005],"type":"Point"}
+  "geometry": {"coordinates":[107.11681,14.59005],"type":"Point"}
 }

@@ -44,7 +44,7 @@
         "gn:id":11223834
     },
     "wof:country":"LA",
-    "wof:geomhash":"bc86a3f99ac01eff7a7391c155aafe4f",
+    "wof:geomhash":"f0ed79d74ba9ba608011fbeba1556965",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     102.21011,
     19.67542000000001
 ],
-  "geometry": {"coordinates":[102.21011,19.67542000000001],"type":"Point"}
+  "geometry": {"coordinates":[102.21011,19.67542],"type":"Point"}
 }

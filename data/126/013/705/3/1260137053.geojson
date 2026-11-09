@@ -48,7 +48,7 @@
         "wk:page":"A_Kleum"
     },
     "wof:country":"LA",
-    "wof:geomhash":"eb9feb295a2cf641ab51d3c3f2df9955",
+    "wof:geomhash":"4b3d45e6de81bd7339164724856c5e22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     107.06667,
     16.0
 ],
-  "geometry": {"coordinates":[107.06667,16.0],"type":"Point"}
+  "geometry": {"coordinates":[107.06667,16],"type":"Point"}
 }

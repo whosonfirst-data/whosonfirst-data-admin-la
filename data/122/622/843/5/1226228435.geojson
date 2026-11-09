@@ -46,7 +46,7 @@
         "wk:page":"Ban_Nakhem"
     },
     "wof:country":"LA",
-    "wof:geomhash":"a5a1ad84670f375ca7ad3cf283d770a8",
+    "wof:geomhash":"3d03df68e942b8a5f9ec5824f333be50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     101.5095,
     18.96737000000001
 ],
-  "geometry": {"coordinates":[101.5095,18.96737000000001],"type":"Point"}
+  "geometry": {"coordinates":[101.5095,18.96737],"type":"Point"}
 }

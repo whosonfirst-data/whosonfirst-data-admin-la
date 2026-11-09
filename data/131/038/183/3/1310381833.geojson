@@ -49,7 +49,7 @@
         "wk:page":"Ban_Bo_Sane"
     },
     "wof:country":"LA",
-    "wof:geomhash":"2e73ea47c37f15b484f9492d6fdb0b7a",
+    "wof:geomhash":"6b072c832d0b1114735ffa76ac6b635b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     101.10262,
     17.66502999999999
 ],
-  "geometry": {"coordinates":[101.10262,17.66502999999999],"type":"Point"}
+  "geometry": {"coordinates":[101.10262,17.66503],"type":"Point"}
 }

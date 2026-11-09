@@ -42,7 +42,7 @@
         "wk:page":"Ban_Vianglouang"
     },
     "wof:country":"LA",
-    "wof:geomhash":"92c99f69f40ea3189285fab6df0021b2",
+    "wof:geomhash":"4446f0dbbfba3ba9a1cb3a5c49e7bc20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     107.21023999999998,
     14.55114
 ],
-  "geometry": {"coordinates":[107.21023999999998,14.55114],"type":"Point"}
+  "geometry": {"coordinates":[107.21024,14.55114],"type":"Point"}
 }
