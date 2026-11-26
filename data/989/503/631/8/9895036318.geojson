@@ -1,0 +1,74 @@
+{
+  "id": 9895036318,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.09461,17.44602,105.09461,17.44602",
+    "geom:latitude":17.44602,
+    "geom:longitude":105.09461,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433864: name \"Ban Ph\u00f4nlai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433864"
+        },
+        {
+            "citation":"GeoNames populated place 13433864: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433864"
+        },
+        {
+            "citation":"GeoNames populated place 13433864: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433864"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092031145 (Mahaxai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673467,
+        102191569,
+        1092031145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433864
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e1eb6acea43c564b2f3f3584399abfe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031145,
+            "locality_id":9895036318,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":9895036318,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Ph\u00f4nlai",
+    "wof:parent_id":1092031145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.09461,
+    17.44602,
+    105.09461,
+    17.44602
+],
+  "geometry": {"coordinates":[105.09461,17.44602],"type":"Point"}
+}

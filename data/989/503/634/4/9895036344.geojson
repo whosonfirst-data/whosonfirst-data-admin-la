@@ -1,0 +1,75 @@
+{
+  "id": 9895036344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.68038,18.48445,102.68038,18.48445",
+    "geom:latitude":18.48445,
+    "geom:longitude":102.68038,
+    "gn:population":510,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631631: name \"Mai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631631"
+        },
+        {
+            "citation":"GeoNames populated place 13631631: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631631"
+        },
+        {
+            "citation":"GeoNames populated place 13631631: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631631"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092027131 (Keo-Oudom), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673437,
+        102191569,
+        1092027131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631631
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"aa2452768ed92f4b9d677be278bed359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027131,
+            "locality_id":9895036344,
+            "region_id":85673437
+        }
+    ],
+    "wof:id":9895036344,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Mai",
+    "wof:parent_id":1092027131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.68038,
+    18.48445,
+    102.68038,
+    18.48445
+],
+  "geometry": {"coordinates":[102.68038,18.48445],"type":"Point"}
+}

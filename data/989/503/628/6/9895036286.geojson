@@ -1,0 +1,74 @@
+{
+  "id": 9895036286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.39601,15.66083,106.39601,15.66083",
+    "geom:latitude":15.66083,
+    "geom:longitude":106.39601,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433232: name \"Ban Maknao\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433232"
+        },
+        {
+            "citation":"GeoNames populated place 13433232: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433232"
+        },
+        {
+            "citation":"GeoNames populated place 13433232: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433232"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092028911 (Saravan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673427,
+        102191569,
+        1092028911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433232
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"26e45bef602c3d6c3126a2cbe68b1902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028911,
+            "locality_id":9895036286,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":9895036286,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Maknao",
+    "wof:parent_id":1092028911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.39601,
+    15.66083,
+    106.39601,
+    15.66083
+],
+  "geometry": {"coordinates":[106.39601,15.66083],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.89092,17.53425,104.89092,17.53425",
+    "geom:latitude":17.53425,
+    "geom:longitude":104.89092,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433863: name \"Ban Na\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433863"
+        },
+        {
+            "citation":"GeoNames populated place 13433863: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433863"
+        },
+        {
+            "citation":"GeoNames populated place 13433863: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433863"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092030293 (Thakhek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673467,
+        102191569,
+        1092030293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433863
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"9a9662141fc25f63573201a7d698e758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030293,
+            "locality_id":9895036317,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":9895036317,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Na",
+    "wof:parent_id":1092030293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.89092,
+    17.53425,
+    104.89092,
+    17.53425
+],
+  "geometry": {"coordinates":[104.89092,17.53425],"type":"Point"}
+}

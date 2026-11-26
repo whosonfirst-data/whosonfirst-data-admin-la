@@ -1,0 +1,74 @@
+{
+  "id": 9895036306,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.45962,19.69699,102.45962,19.69699",
+    "geom:latitude":19.69699,
+    "geom:longitude":102.45962,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433527: name \"Ban Dan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433527"
+        },
+        {
+            "citation":"GeoNames populated place 13433527: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433527"
+        },
+        {
+            "citation":"GeoNames populated place 13433527: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433527"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092030413 (Xiang-Ngeun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673451,
+        102191569,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433527
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"105f23bc4babcba037af1b5d98356da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":9895036306,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":9895036306,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Dan",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.45962,
+    19.69699,
+    102.45962,
+    19.69699
+],
+  "geometry": {"coordinates":[102.45962,19.69699],"type":"Point"}
+}

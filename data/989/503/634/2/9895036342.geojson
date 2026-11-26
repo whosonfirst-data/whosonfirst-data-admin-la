@@ -1,0 +1,75 @@
+{
+  "id": 9895036342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13805,20.25304,100.13805,20.25304",
+    "geom:latitude":20.25304,
+    "geom:longitude":100.13805,
+    "gn:population":1250,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631618: name \"Homyen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631618"
+        },
+        {
+            "citation":"GeoNames populated place 13631618: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631618"
+        },
+        {
+            "citation":"GeoNames populated place 13631618: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631618"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092026785 (Tonpheung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673409,
+        102191569,
+        1092026785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631618
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"503aa2dba89d3fae8d4b60b13eb13431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026785,
+            "locality_id":9895036342,
+            "region_id":85673409
+        }
+    ],
+    "wof:id":9895036342,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Homyen",
+    "wof:parent_id":1092026785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13805,
+    20.25304,
+    100.13805,
+    20.25304
+],
+  "geometry": {"coordinates":[100.13805,20.25304],"type":"Point"}
+}

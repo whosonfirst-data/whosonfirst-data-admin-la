@@ -1,0 +1,74 @@
+{
+  "id": 9895036324,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38441,16.72726,106.38441,16.72726",
+    "geom:latitude":16.72726,
+    "geom:longitude":106.38441,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433966: name \"Ban Katan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433966"
+        },
+        {
+            "citation":"GeoNames populated place 13433966: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433966"
+        },
+        {
+            "citation":"GeoNames populated place 13433966: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433966"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092026919 (Xepon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673429,
+        102191569,
+        1092026919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433966
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"98fe747d57305216b868b60783169459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026919,
+            "locality_id":9895036324,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":9895036324,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Katan",
+    "wof:parent_id":1092026919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38441,
+    16.72726,
+    106.38441,
+    16.72726
+],
+  "geometry": {"coordinates":[106.38441,16.72726],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.50608,21.07833,102.50608,21.07833",
+    "geom:latitude":21.07833,
+    "geom:longitude":102.50608,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1655189: name \"Khoa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1655189"
+        },
+        {
+            "citation":"GeoNames populated place 1655189: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1655189"
+        },
+        {
+            "citation":"GeoNames populated place 1655189: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1655189"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092027913 (Khoa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673459,
+        102191569,
+        1092027913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1655189
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"7ed7330db97f32728e265b1a602dc777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027913,
+            "locality_id":9895036277,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":9895036277,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Khoa",
+    "wof:parent_id":1092027913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.50608,
+    21.07833,
+    102.50608,
+    21.07833
+],
+  "geometry": {"coordinates":[102.50608,21.07833],"type":"Point"}
+}

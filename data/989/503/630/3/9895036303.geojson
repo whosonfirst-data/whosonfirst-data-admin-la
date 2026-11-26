@@ -1,0 +1,74 @@
+{
+  "id": 9895036303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.50998,16.2972,105.50998,16.2972",
+    "geom:latitude":16.2972,
+    "geom:longitude":105.50998,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433493: name \"Ban Phal\u00e8ng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433493"
+        },
+        {
+            "citation":"GeoNames populated place 13433493: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433493"
+        },
+        {
+            "citation":"GeoNames populated place 13433493: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433493"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092030585 (Xonbouri), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673429,
+        102191569,
+        1092030585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433493
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c51b9516c26da03c149adba26ce2891b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030585,
+            "locality_id":9895036303,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":9895036303,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Phal\u00e8ng",
+    "wof:parent_id":1092030585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.50998,
+    16.2972,
+    105.50998,
+    16.2972
+],
+  "geometry": {"coordinates":[105.50998,16.2972],"type":"Point"}
+}

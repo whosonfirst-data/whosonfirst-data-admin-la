@@ -1,0 +1,74 @@
+{
+  "id": 9895036329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.57423,16.08237,106.57423,16.08237",
+    "geom:latitude":16.08237,
+    "geom:longitude":106.57423,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13434051: name \"Ban B\u00f4ng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13434051"
+        },
+        {
+            "citation":"GeoNames populated place 13434051: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13434051"
+        },
+        {
+            "citation":"GeoNames populated place 13434051: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13434051"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092029099 (Ta-Oy), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673427,
+        102191569,
+        1092029099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13434051
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0961da04f754aa78902d692409417672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029099,
+            "locality_id":9895036329,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":9895036329,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban B\u00f4ng",
+    "wof:parent_id":1092029099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.57423,
+    16.08237,
+    106.57423,
+    16.08237
+],
+  "geometry": {"coordinates":[106.57423,16.08237],"type":"Point"}
+}

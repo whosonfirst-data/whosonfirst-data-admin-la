@@ -1,0 +1,74 @@
+{
+  "id": 9895036334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.4588,20.57054,101.4588,20.57054",
+    "geom:latitude":20.57054,
+    "geom:longitude":101.4588,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13434145: name \"Ban Lao\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13434145"
+        },
+        {
+            "citation":"GeoNames populated place 13434145: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13434145"
+        },
+        {
+            "citation":"GeoNames populated place 13434145: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13434145"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092027579 (Nale), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673413,
+        102191569,
+        1092027579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13434145
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"779626b6dd8583aa2eb4fad3990ac1f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027579,
+            "locality_id":9895036334,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":9895036334,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Lao",
+    "wof:parent_id":1092027579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.4588,
+    20.57054,
+    101.4588,
+    20.57054
+],
+  "geometry": {"coordinates":[101.4588,20.57054],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895036343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.36552,15.44909,107.36552,15.44909",
+    "geom:latitude":15.44909,
+    "geom:longitude":107.36552,
+    "gn:population":515,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631621: name \"Dark Man\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631621"
+        },
+        {
+            "citation":"GeoNames populated place 13631621: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631621"
+        },
+        {
+            "citation":"GeoNames populated place 13631621: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631621"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092026145 (Dakchung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673473,
+        102191569,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631621
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"4485f48333335e06de7761c06e44a195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":9895036343,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":9895036343,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Dark Man",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.36552,
+    15.44909,
+    107.36552,
+    15.44909
+],
+  "geometry": {"coordinates":[107.36552,15.44909],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.22379,20.40677,104.22379,20.40677",
+    "geom:latitude":20.40677,
+    "geom:longitude":104.22379,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1955334: name \"Viangxai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1955334"
+        },
+        {
+            "citation":"GeoNames populated place 1955334: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1955334"
+        },
+        {
+            "citation":"GeoNames populated place 1955334: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1955334"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092031621 (Viangxai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673447,
+        102191569,
+        1092031621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1955334
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e2a2f3ef21da43124746c11e236ac51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031621,
+            "locality_id":9895036279,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":9895036279,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Viangxai",
+    "wof:parent_id":1092031621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.22379,
+    20.40677,
+    104.22379,
+    20.40677
+],
+  "geometry": {"coordinates":[104.22379,20.40677],"type":"Point"}
+}

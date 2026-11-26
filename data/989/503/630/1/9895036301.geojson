@@ -1,0 +1,74 @@
+{
+  "id": 9895036301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.54871,18.945,101.54871,18.945",
+    "geom:latitude":18.945,
+    "geom:longitude":101.54871,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433466: name \"Ban Viangxai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433466"
+        },
+        {
+            "citation":"GeoNames populated place 13433466: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433466"
+        },
+        {
+            "citation":"GeoNames populated place 13433466: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433466"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092031375 (Phiang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673417,
+        102191569,
+        1092031375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433466
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"f69aa360c51498a99e906c5b1cb8b085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031375,
+            "locality_id":9895036301,
+            "region_id":85673417
+        }
+    ],
+    "wof:id":9895036301,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Viangxai",
+    "wof:parent_id":1092031375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.54871,
+    18.945,
+    101.54871,
+    18.945
+],
+  "geometry": {"coordinates":[101.54871,18.945],"type":"Point"}
+}
