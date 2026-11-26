@@ -1,0 +1,74 @@
+{
+  "id": 9895036304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.79242,16.23886,105.79242,16.23886",
+    "geom:latitude":16.23886,
+    "geom:longitude":105.79242,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433497: name \"Ban Tang-Alai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433497"
+        },
+        {
+            "citation":"GeoNames populated place 13433497: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433497"
+        },
+        {
+            "citation":"GeoNames populated place 13433497: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433497"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092029171 (Thapangthong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673429,
+        102191569,
+        1092029171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433497
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"2b71f69a5c00caa3f12cc59cbb33b3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029171,
+            "locality_id":9895036304,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":9895036304,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Tang-Alai",
+    "wof:parent_id":1092029171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.79242,
+    16.23886,
+    105.79242,
+    16.23886
+],
+  "geometry": {"coordinates":[105.79242,16.23886],"type":"Point"}
+}

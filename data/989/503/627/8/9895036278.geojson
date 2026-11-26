@@ -1,0 +1,75 @@
+{
+  "id": 9895036278,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.72671,18.56286,103.72671,18.56286",
+    "geom:latitude":18.56286,
+    "geom:longitude":103.72671,
+    "gn:population":18354,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1657897: name \"Borikhan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1657897"
+        },
+        {
+            "citation":"GeoNames populated place 1657897: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1657897"
+        },
+        {
+            "citation":"GeoNames populated place 1657897: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1657897"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092027507 (Borikhan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673463,
+        102191569,
+        1092027507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1657897
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"091d74149b6b52e13d500d4de3376783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027507,
+            "locality_id":9895036278,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":9895036278,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Borikhan",
+    "wof:parent_id":1092027507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.72671,
+    18.56286,
+    103.72671,
+    18.56286
+],
+  "geometry": {"coordinates":[103.72671,18.56286],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.20423,15.33682,107.20423,15.33682",
+    "geom:latitude":15.33682,
+    "geom:longitude":107.20423,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433237: name \"Ban Daklay\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433237"
+        },
+        {
+            "citation":"GeoNames populated place 13433237: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433237"
+        },
+        {
+            "citation":"GeoNames populated place 13433237: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433237"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092026145 (Dakchung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673473,
+        102191569,
+        1092026145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433237
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e13d2b6448b474c77b5f6a6df753f096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026145,
+            "locality_id":9895036289,
+            "region_id":85673473
+        }
+    ],
+    "wof:id":9895036289,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Daklay",
+    "wof:parent_id":1092026145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.20423,
+    15.33682,
+    107.20423,
+    15.33682
+],
+  "geometry": {"coordinates":[107.20423,15.33682],"type":"Point"}
+}

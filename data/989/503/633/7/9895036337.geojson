@@ -1,0 +1,74 @@
+{
+  "id": 9895036337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.50815,20.64429,104.50815,20.64429",
+    "geom:latitude":20.64429,
+    "geom:longitude":104.50815,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13434510: name \"Ban Pakh\u00f4m\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13434510"
+        },
+        {
+            "citation":"GeoNames populated place 13434510: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13434510"
+        },
+        {
+            "citation":"GeoNames populated place 13434510: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13434510"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092026741 (Sopbao), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673447,
+        102191569,
+        1092026741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13434510
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"0517c77e9c7454006d14edae8bc0a7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026741,
+            "locality_id":9895036337,
+            "region_id":85673447
+        }
+    ],
+    "wof:id":9895036337,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Pakh\u00f4m",
+    "wof:parent_id":1092026741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.50815,
+    20.64429,
+    104.50815,
+    20.64429
+],
+  "geometry": {"coordinates":[104.50815,20.64429],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.92718,16.67273,104.92718,16.67273",
+    "geom:latitude":16.67273,
+    "geom:longitude":104.92718,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433949: name \"Ban Kh\u00f4k\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433949"
+        },
+        {
+            "citation":"GeoNames populated place 13433949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433949"
+        },
+        {
+            "citation":"GeoNames populated place 13433949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433949"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092028047 (Outhoumphon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673429,
+        102191569,
+        1092028047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433949
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"48d4457cad50d30a11ee89b897bedc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028047,
+            "locality_id":9895036323,
+            "region_id":85673429
+        }
+    ],
+    "wof:id":9895036323,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Kh\u00f4k",
+    "wof:parent_id":1092028047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.92718,
+    16.67273,
+    104.92718,
+    16.67273
+],
+  "geometry": {"coordinates":[104.92718,16.67273],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.17991,17.59126,105.17991,17.59126",
+    "geom:latitude":17.59126,
+    "geom:longitude":105.17991,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433865: name \"Ban Nakatang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433865"
+        },
+        {
+            "citation":"GeoNames populated place 13433865: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433865"
+        },
+        {
+            "citation":"GeoNames populated place 13433865: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433865"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092031117 (Gnommalat), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673467,
+        102191569,
+        1092031117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433865
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"be508933a461ed0b85d727b92ca2acb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092031117,
+            "locality_id":9895036319,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":9895036319,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Nakatang",
+    "wof:parent_id":1092031117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.17991,
+    17.59126,
+    105.17991,
+    17.59126
+],
+  "geometry": {"coordinates":[105.17991,17.59126],"type":"Point"}
+}

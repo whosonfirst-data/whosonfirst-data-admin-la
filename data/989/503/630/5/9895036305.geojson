@@ -1,0 +1,74 @@
+{
+  "id": 9895036305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.11921,19.68503,102.11921,19.68503",
+    "geom:latitude":19.68503,
+    "geom:longitude":102.11921,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433525: name \"Ban Thin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433525"
+        },
+        {
+            "citation":"GeoNames populated place 13433525: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433525"
+        },
+        {
+            "citation":"GeoNames populated place 13433525: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433525"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092030413 (Xiang-Ngeun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673451,
+        102191569,
+        1092030413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433525
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"c80fc4569c6cf6d28ebcf7c529fbf5cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030413,
+            "locality_id":9895036305,
+            "region_id":85673451
+        }
+    ],
+    "wof:id":9895036305,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Thin",
+    "wof:parent_id":1092030413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.11921,
+    19.68503,
+    102.11921,
+    19.68503
+],
+  "geometry": {"coordinates":[102.11921,19.68503],"type":"Point"}
+}

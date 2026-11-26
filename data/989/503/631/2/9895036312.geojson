@@ -1,0 +1,74 @@
+{
+  "id": 9895036312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.43307,19.28653,103.43307,19.28653",
+    "geom:latitude":19.28653,
+    "geom:longitude":103.43307,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433735: name \"Ban Tan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433735"
+        },
+        {
+            "citation":"GeoNames populated place 13433735: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433735"
+        },
+        {
+            "citation":"GeoNames populated place 13433735: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433735"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092027229 (Khoun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673441,
+        102191569,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433735
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"57fe5f73013ce904942c15785144d346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":9895036312,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":9895036312,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Tan",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.43307,
+    19.28653,
+    103.43307,
+    19.28653
+],
+  "geometry": {"coordinates":[103.43307,19.28653],"type":"Point"}
+}

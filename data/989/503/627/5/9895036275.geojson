@@ -1,0 +1,75 @@
+{
+  "id": 9895036275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.99378,18.32459,103.99378,18.32459",
+    "geom:latitude":18.32459,
+    "geom:longitude":103.99378,
+    "gn:population":2176,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1654401: name \"Pakkading\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1654401"
+        },
+        {
+            "citation":"GeoNames populated place 1654401: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1654401"
+        },
+        {
+            "citation":"GeoNames populated place 1654401: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1654401"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092030835 (Pakkading), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673463,
+        102191569,
+        1092030835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1654401
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"8aaab37dc0d96dd6c7b04c3695c07927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092030835,
+            "locality_id":9895036275,
+            "region_id":85673463
+        }
+    ],
+    "wof:id":9895036275,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Pakkading",
+    "wof:parent_id":1092030835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.99378,
+    18.32459,
+    103.99378,
+    18.32459
+],
+  "geometry": {"coordinates":[103.99378,18.32459],"type":"Point"}
+}

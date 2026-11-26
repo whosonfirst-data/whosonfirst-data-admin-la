@@ -1,0 +1,74 @@
+{
+  "id": 9895036314,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.57388,19.1031,103.57388,19.1031",
+    "geom:latitude":19.1031,
+    "geom:longitude":103.57388,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433737: name \"Ban Lan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433737"
+        },
+        {
+            "citation":"GeoNames populated place 13433737: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433737"
+        },
+        {
+            "citation":"GeoNames populated place 13433737: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433737"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092027229 (Khoun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673441,
+        102191569,
+        1092027229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433737
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"142dfdf0bd04d32318ba2b5827b9cf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027229,
+            "locality_id":9895036314,
+            "region_id":85673441
+        }
+    ],
+    "wof:id":9895036314,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Lan",
+    "wof:parent_id":1092027229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.57388,
+    19.1031,
+    103.57388,
+    19.1031
+],
+  "geometry": {"coordinates":[103.57388,19.1031],"type":"Point"}
+}

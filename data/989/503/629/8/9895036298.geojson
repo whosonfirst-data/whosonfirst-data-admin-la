@@ -1,0 +1,74 @@
+{
+  "id": 9895036298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.93192,15.24856,105.93192,15.24856",
+    "geom:latitude":15.24856,
+    "geom:longitude":105.93192,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433389: name \"Ban Nongkok\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433389"
+        },
+        {
+            "citation":"GeoNames populated place 13433389: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433389"
+        },
+        {
+            "citation":"GeoNames populated place 13433389: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433389"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092027009 (Bachiangchareunsouk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673423,
+        102191569,
+        1092027009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433389
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"82d6f6a510c44fa235520c5b77a84834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092027009,
+            "locality_id":9895036298,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":9895036298,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Nongkok",
+    "wof:parent_id":1092027009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.93192,
+    15.24856,
+    105.93192,
+    15.24856
+],
+  "geometry": {"coordinates":[105.93192,15.24856],"type":"Point"}
+}

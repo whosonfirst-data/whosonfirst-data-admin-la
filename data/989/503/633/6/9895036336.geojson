@@ -1,0 +1,74 @@
+{
+  "id": 9895036336,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.51976,21.27469,102.51976,21.27469",
+    "geom:latitude":21.27469,
+    "geom:longitude":102.51976,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13434283: name \"Ban Pakban\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13434283"
+        },
+        {
+            "citation":"GeoNames populated place 13434283: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13434283"
+        },
+        {
+            "citation":"GeoNames populated place 13434283: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13434283"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092026481 (Mai), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673459,
+        102191569,
+        1092026481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13434283
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"d757093a775050ad7e96cd75eac63e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092026481,
+            "locality_id":9895036336,
+            "region_id":85673459
+        }
+    ],
+    "wof:id":9895036336,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Pakban",
+    "wof:parent_id":1092026481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.51976,
+    21.27469,
+    102.51976,
+    21.27469
+],
+  "geometry": {"coordinates":[102.51976,21.27469],"type":"Point"}
+}

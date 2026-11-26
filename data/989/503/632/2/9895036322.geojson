@@ -1,0 +1,74 @@
+{
+  "id": 9895036322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.74682,17.00951,104.74682,17.00951",
+    "geom:latitude":17.00951,
+    "geom:longitude":104.74682,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433878: name \"Ban Donkhiao\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433878"
+        },
+        {
+            "citation":"GeoNames populated place 13433878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433878"
+        },
+        {
+            "citation":"GeoNames populated place 13433878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433878"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092028125 (Nongbok), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673467,
+        102191569,
+        1092028125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433878
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"e19f49ba89f7823a68792e584debf95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028125,
+            "locality_id":9895036322,
+            "region_id":85673467
+        }
+    ],
+    "wof:id":9895036322,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Donkhiao",
+    "wof:parent_id":1092028125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.74682,
+    17.00951,
+    104.74682,
+    17.00951
+],
+  "geometry": {"coordinates":[104.74682,17.00951],"type":"Point"}
+}

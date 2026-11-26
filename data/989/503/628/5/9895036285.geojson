@@ -1,0 +1,74 @@
+{
+  "id": 9895036285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.31121,15.60653,106.31121,15.60653",
+    "geom:latitude":15.60653,
+    "geom:longitude":106.31121,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433231: name \"Ban Naxai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433231"
+        },
+        {
+            "citation":"GeoNames populated place 13433231: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433231"
+        },
+        {
+            "citation":"GeoNames populated place 13433231: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433231"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092028911 (Saravan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673427,
+        102191569,
+        1092028911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433231
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"fe910390fea91ed15263acbd1afb7bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028911,
+            "locality_id":9895036285,
+            "region_id":85673427
+        }
+    ],
+    "wof:id":9895036285,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Naxai",
+    "wof:parent_id":1092028911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.31121,
+    15.60653,
+    106.31121,
+    15.60653
+],
+  "geometry": {"coordinates":[106.31121,15.60653],"type":"Point"}
+}

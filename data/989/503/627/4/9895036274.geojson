@@ -1,0 +1,74 @@
+{
+  "id": 9895036274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.06667,20.68333,101.06667,20.68333",
+    "geom:latitude":20.68333,
+    "geom:longitude":101.06667,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1652243: name \"Viangphoukha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1652243"
+        },
+        {
+            "citation":"GeoNames populated place 1652243: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1652243"
+        },
+        {
+            "citation":"GeoNames populated place 1652243: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1652243"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092029513 (Viangphoukha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673413,
+        102191569,
+        1092029513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1652243
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"380907d02eb6b5c34a125e629a1c539e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092029513,
+            "locality_id":9895036274,
+            "region_id":85673413
+        }
+    ],
+    "wof:id":9895036274,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Viangphoukha",
+    "wof:parent_id":1092029513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.06667,
+    20.68333,
+    101.06667,
+    20.68333
+],
+  "geometry": {"coordinates":[101.06667,20.68333],"type":"Point"}
+}

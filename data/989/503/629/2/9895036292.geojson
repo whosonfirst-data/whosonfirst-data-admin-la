@@ -1,0 +1,74 @@
+{
+  "id": 9895036292,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.20033,15.2828,106.20033,15.2828",
+    "geom:latitude":15.2828,
+    "geom:longitude":106.20033,
+    "iso:country":"LA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433242: name \"Ban Kapheu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433242"
+        },
+        {
+            "citation":"GeoNames populated place 13433242: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433242"
+        },
+        {
+            "citation":"GeoNames populated place 13433242: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433242"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092028479 (Pakxong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632241,
+        85673423,
+        102191569,
+        1092028479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433242
+    },
+    "wof:country":"LA",
+    "wof:geomhash":"6989027882c25b8ef8451b704ed8412f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632241,
+            "county_id":1092028479,
+            "locality_id":9895036292,
+            "region_id":85673423
+        }
+    ],
+    "wof:id":9895036292,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Ban Kapheu",
+    "wof:parent_id":1092028479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-la",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.20033,
+    15.2828,
+    106.20033,
+    15.2828
+],
+  "geometry": {"coordinates":[106.20033,15.2828],"type":"Point"}
+}
